@@ -19,7 +19,7 @@ class ViewController: UIViewController, UIScrollViewDelegate {
     }
 
         @IBAction func buttonClicked(_ sender: Any) {
-           // imageViewPokemon.image = UIImage(named: "squertle")
+            imageViewPokemon.image = UIImage(named: "pikachu")
             print("aqui")
         }
     

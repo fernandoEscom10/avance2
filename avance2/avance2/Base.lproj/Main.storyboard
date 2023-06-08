@@ -59,6 +59,7 @@
                     </view>
                     <connections>
                         <outlet property="changeImageBtn" destination="Kcr-Ce-L8W" id="fpF-m8-9cs"/>
+                        <outlet property="imageViewPokemon" destination="1Qy-S6-P0L" id="UxL-Wf-Fzn"/>
                     </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
