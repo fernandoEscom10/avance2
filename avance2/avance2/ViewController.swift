@@ -14,7 +14,7 @@ class ViewController: UIViewController, UIScrollViewDelegate {
     
     override func viewDidLoad() {
         super.viewDidLoad()
-        scrollView.delegate = self
+//        scrollView.delegate = self
         // Do any additional setup after loading the view.
     }
 
